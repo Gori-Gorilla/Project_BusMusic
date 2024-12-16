@@ -1,1 +1,2 @@
 Content/CitySampleVehicles/vehicle10_Bus/Mesh/SM_vehBus_vehicle10_LOD.uasset filter=lfs diff=lfs merge=lfs -text
+Content/CitySampleVehicles/vehicle10_Bus/Texture/T_vehBus_vehicle10_AORM.uasset filter=lfs diff=lfs merge=lfs -text
